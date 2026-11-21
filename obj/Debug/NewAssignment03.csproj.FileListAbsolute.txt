@@ -1,0 +1,8 @@
+E:\Route Academy\Assignments\NewAssignment03\bin\Debug\NewAssignment03.exe.config
+E:\Route Academy\Assignments\NewAssignment03\bin\Debug\NewAssignment03.exe
+E:\Route Academy\Assignments\NewAssignment03\bin\Debug\NewAssignment03.pdb
+E:\Route Academy\Assignments\NewAssignment03\obj\Debug\NewAssignment03.csproj.AssemblyReference.cache
+E:\Route Academy\Assignments\NewAssignment03\obj\Debug\NewAssignment03.csproj.CoreCompileInputs.cache
+E:\Route Academy\Assignments\NewAssignment03\obj\Debug\NewAssignment03.exe
+E:\Route Academy\Assignments\NewAssignment03\obj\Debug\NewAssignment03.pdb
+E:\Route Academy\Assignments\NewAssignment03\obj\Debug\NewAssignment03.exe.config
